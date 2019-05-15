@@ -25,7 +25,6 @@ public class luz {
     public void mudarestado(){
         this.estado=!this.estado;
     }
-   
 }
 
 
